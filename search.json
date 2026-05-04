@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "resources/resource2.html",
+    "href": "resources/resource2.html",
+    "title": "Resource 2",
+    "section": "",
+    "text": "This guide covers how to do something with Resource 2."
+  },
+  {
+    "objectID": "resources/resource2.html#overview",
+    "href": "resources/resource2.html#overview",
+    "title": "Resource 2",
+    "section": "",
+    "text": "This guide covers how to do something with Resource 2."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nResource 2\n\n\n\nR\n\nHPC\n\nGitHub\n\n\n\nA description of Resource 2\n\n\n\n\n\nMay 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nResource 1\n\n\n\nInfrastructure\n\nHPC\n\nPython\n\n\n\nA description of Resource 1\n\n\n\n\n\nMay 1, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "resources/resource1.html",
+    "href": "resources/resource1.html",
+    "title": "Resource 1",
+    "section": "",
+    "text": "This guide covers how to do something with Resource 1."
+  },
+  {
+    "objectID": "resources/resource1.html#overview",
+    "href": "resources/resource1.html#overview",
+    "title": "Resource 1",
+    "section": "",
+    "text": "This guide covers how to do something with Resource 1."
+  }
+]
