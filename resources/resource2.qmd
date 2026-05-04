@@ -1,0 +1,9 @@
+---
+title: "Resource 2"
+description: "A description of Resource 2"
+date: "2026-05-04"
+categories: [R, HPC, GitHub]
+---
+
+## Overview
+This guide covers how to do something with Resource 2.

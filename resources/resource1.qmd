@@ -1,0 +1,9 @@
+---
+title: "Resource 1"
+description: "A description of Resource 1"
+date: "2026-05-01"
+categories: [Infrastructure, HPC, Python]
+---
+
+## Overview
+This guide covers how to do something with Resource 1.

@@ -1,5 +1,12 @@
 ---
 title: "Resources"
+listing:
+  contents: resources
+  type: default
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
 ---
 
 This is a Quarto website.
